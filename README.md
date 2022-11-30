@@ -1,2 +1,3 @@
-# RuDok
-GUI Java based software for creating and managing documents
+# rudok-jo-ra
+rudok-jo-ra created by GitHub Classroom
+Jovana Radakovic 38/20RN
