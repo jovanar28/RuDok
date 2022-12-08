@@ -1,3 +1,3 @@
-# rudok-jo-ra
+# RuDok
 RuDok-Application for managing and creating documents
-Project for Software Design course
+<br/>Project for Software Design course
