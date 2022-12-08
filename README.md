@@ -1,3 +1,3 @@
 # rudok-jo-ra
-rudok-jo-ra created by GitHub Classroom
-Jovana Radakovic 38/20RN
+RuDok-Application for managing and creating documents
+Project for Software Design course
